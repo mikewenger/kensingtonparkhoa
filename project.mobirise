@@ -51,7 +51,7 @@
     ],
     "uniqCompNum": 1,
     "versionPublish": "4.11.6",
-    "favicon": "@PROJECT_PATH@/assets/images/icon.png",
+    "favicon": "@PROJECT_PATH@/assets/images/icon.jpg",
     "noImageResize": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
