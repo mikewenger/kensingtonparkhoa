@@ -51,7 +51,7 @@
     ],
     "uniqCompNum": 1,
     "versionPublish": "4.11.6",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/icon.png",
     "noImageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -59,7 +59,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
