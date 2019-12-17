@@ -53,14 +53,15 @@
     "versionPublish": "4.11.6",
     "favicon": "@PROJECT_PATH@/assets/images/icon.png",
     "noImageResize": true,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "http://www.kensingtonparkhoa.com",
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "canonical-url": false
+    "canonical-url": false,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
